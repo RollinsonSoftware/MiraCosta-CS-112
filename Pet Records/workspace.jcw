@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>workspace</label>
+	</settings>
+	<users>
+		<user>
+			<path>workspace.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Files\Files.jcp</path>
+		</project>
+	</projects>
+</workspace>

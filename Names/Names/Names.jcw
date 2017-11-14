@@ -1,0 +1,19 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Names</label>
+	</settings>
+	<users>
+		<user>
+			<path>Names.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Names\Names.jcp</path>
+		</project>
+		<project>
+			<path>intReader\intReader.jcp</path>
+		</project>
+	</projects>
+</workspace>

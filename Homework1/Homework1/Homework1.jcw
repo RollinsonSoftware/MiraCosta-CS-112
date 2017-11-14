@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Homework1</label>
+	</settings>
+	<users>
+		<user>
+			<path>Homework1.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Movie\Movie.jcp</path>
+		</project>
+	</projects>
+</workspace>
