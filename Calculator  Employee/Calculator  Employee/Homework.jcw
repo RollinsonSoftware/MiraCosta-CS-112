@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Homework</label>
+	</settings>
+	<users>
+		<user>
+			<path>Homework.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Calculator\Calculator.jcp</path>
+		</project>
+	</projects>
+</workspace>

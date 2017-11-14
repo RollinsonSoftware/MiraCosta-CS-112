@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Binary Record Holder</label>
+	</settings>
+	<users>
+		<user>
+			<path>Binary Record Holder.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Binary Record Holder\Binary Record Holder.jcp</path>
+		</project>
+	</projects>
+</workspace>
